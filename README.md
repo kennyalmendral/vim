@@ -1,4 +1,4 @@
 # vim
-My vim config for OS X
+My vim config for OS X.
 
   :PluginInstall
