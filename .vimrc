@@ -5,7 +5,7 @@ so ~/.vim/plugins.vim
 syntax enable
 
 let mapleader = ','
-let g:ctrlp_custom_ignore='node_modules\DS_Store\|git'
+let g:ctrlp_custom_ignore='vendor\|node_modules\|DS_Store\|git'
 let g:ctrlp_match_window='bottom,order:ttb,min:1,max:30,results:30'
 let g:user_emmet_leader_key='<C-E>'
 let g:vim_markdown_folding_disabled = 1
