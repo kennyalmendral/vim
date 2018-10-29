@@ -11,6 +11,7 @@ Plugin 'mattn/emmet-vim'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'xsbeats/vim-blade'
 
 call vundle#end()
 filetype plugin indent on
