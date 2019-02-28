@@ -11,7 +11,8 @@ let g:user_emmet_leader_key='<C-E>'
 let g:vim_markdown_folding_disabled = 1
 let NERDTreeHijackNetrw=0
 
-colo oceandeep
+"colo oceandeep
+colo material
 
 hi LineNr guibg=bg
 hi foldcolumn guibg=bg
