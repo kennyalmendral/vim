@@ -12,7 +12,8 @@ let g:vim_markdown_folding_disabled = 1
 let NERDTreeHijackNetrw=0
 
 "colo oceandeep
-colo material
+"colo material
+colo nord
 
 hi LineNr guibg=bg
 hi foldcolumn guibg=bg
